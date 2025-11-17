@@ -1,0 +1,11 @@
+numpy
+pandas
+nibabel
+SimpleITK
+scikit-image
+matplotlib
+albumentations
+opencv-python-headless
+tensorflow>=2.10
+tqdm
+scipy
